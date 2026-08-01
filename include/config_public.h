@@ -7,8 +7,8 @@
 // =====================================================================
 
 // --- WiFi ---
-#define WIFI_SSID     "Subhanallah 4G"
-#define WIFI_PASSWORD "muhammadnabiyullah"
+#define WIFI_SSID     "Wifi"
+#define WIFI_PASSWORD "password"
 
 // --- WireGuard ---
 // WG_LOCAL_IP dipakai langsung sebagai argumen IPAddress(...), makanya
